@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dorsin/static/css/main.8809534c.css",
-    "main.js": "/dorsin/static/js/main.9608b845.js",
+    "main.css": "/dorsin/static/css/main.261bee83.css",
+    "main.js": "/dorsin/static/js/main.28136741.js",
     "static/media/get-started-bg.jpg": "/dorsin/static/media/get-started-bg.03c94a50dea45f3988d3.jpg",
     "static/media/banner-bg.jpg": "/dorsin/static/media/banner-bg.8a3436d89103dd940966.jpg",
     "static/media/landing.jpg": "/dorsin/static/media/landing.54f33acfa5a76720d4d5.jpg",
@@ -15,11 +15,11 @@
     "static/media/payment.png": "/dorsin/static/media/payment.57ed52837084fafec903.png",
     "static/media/online-world.svg": "/dorsin/static/media/online-world.3a222d0d81af2676d84419e34013ac1c.svg",
     "index.html": "/dorsin/index.html",
-    "main.8809534c.css.map": "/dorsin/static/css/main.8809534c.css.map",
-    "main.9608b845.js.map": "/dorsin/static/js/main.9608b845.js.map"
+    "main.261bee83.css.map": "/dorsin/static/css/main.261bee83.css.map",
+    "main.28136741.js.map": "/dorsin/static/js/main.28136741.js.map"
   },
   "entrypoints": [
-    "static/css/main.8809534c.css",
-    "static/js/main.9608b845.js"
+    "static/css/main.261bee83.css",
+    "static/js/main.28136741.js"
   ]
 }
