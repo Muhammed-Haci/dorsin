@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dorsin/static/css/main.ecc2a5bb.css",
+    "main.js": "/dorsin/static/js/main.47871c34.js",
+    "static/media/get-started-bg.jpg": "/dorsin/static/media/get-started-bg.03c94a50dea45f3988d3.jpg",
+    "static/media/banner-bg.jpg": "/dorsin/static/media/banner-bg.8a3436d89103dd940966.jpg",
+    "static/media/landing.jpg": "/dorsin/static/media/landing.54f33acfa5a76720d4d5.jpg",
+    "static/media/blog-3.jpg": "/dorsin/static/media/blog-3.e02d84248dcb45f33e4d.jpg",
+    "static/media/blog-2.jpg": "/dorsin/static/media/blog-2.61d6433c399c7e0421dc.jpg",
+    "static/media/blog-1.jpg": "/dorsin/static/media/blog-1.92858176864301ab837a.jpg",
+    "static/media/team-member-3.jpg": "/dorsin/static/media/team-member-3.b6cd3b7bfbb862af23bd.jpg",
+    "static/media/team-member-1.jpg": "/dorsin/static/media/team-member-1.10c56f8a450226f6e40c.jpg",
+    "static/media/team-member-4.jpg": "/dorsin/static/media/team-member-4.6ab39f2f11cd8d1155b7.jpg",
+    "static/media/team-member-2.jpg": "/dorsin/static/media/team-member-2.ca8041d7759bc795b22f.jpg",
+    "static/media/online-world.svg": "/dorsin/static/media/online-world.3a222d0d81af2676d84419e34013ac1c.svg",
+    "index.html": "/dorsin/index.html",
+    "main.ecc2a5bb.css.map": "/dorsin/static/css/main.ecc2a5bb.css.map",
+    "main.47871c34.js.map": "/dorsin/static/js/main.47871c34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecc2a5bb.css",
+    "static/js/main.47871c34.js"
+  ]
+}
